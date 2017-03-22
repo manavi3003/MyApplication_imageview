@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
-    private static ImageView img_view;
+    private static ImageView image_view;
     private static Button button_sbm;
 
     private int current_img_index;
