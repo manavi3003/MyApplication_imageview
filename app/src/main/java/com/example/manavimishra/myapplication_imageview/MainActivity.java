@@ -8,7 +8,7 @@ import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
     private static ImageView image_view;
-    private static Button button_sbm;
+    private static Button button_sbmm;
 
     private int current_img_index;
      int[] images = {R.mipmap.and_img1,R.mipmap.and_img2};
